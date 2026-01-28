@@ -1,0 +1,17 @@
+# HTML-CSS<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste com imagens</title>
+</head>
+<body>
+    <h1>Testando cargas de imagens</h1>
+    <p>Abaixo uma imagem que está na mesma pasta</p>
+    <img src="logo-200-html.jpg" alt="Logo html 5">
+    <p>Podemos vê que da pra colocar imagens que estão na pasta</p>
+    <img src="Imagens/css3.jpg" alt="Logo css 3">
+    <p>Podemos vê que também conseguimos colocar imagens apenas copiando o endereço dela no google</p>
+    <img src="https://bognarjunior.wordpress.com/wp-content/uploads/2018/01/1crcyaithv7aiqh1z93v99q.png" alt="Logo JavaScript"> 
+</body>
+</html>
