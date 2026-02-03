@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de listas</title>
+</head>
+<body>
+    <h1>trabalhando com listas</h1>
+    <h2>listas ordenadas</h2>
+    <ol type="1">
+        <li>Acordar</li>
+        <li>Escovar os dentes</li>
+        <li>Tomar café da manhã</li>
+        <li>Ir para o trabalho</li>
+        <li>Chegar no trabalho</li>
+        <li>Almoçar</li>
+        <li>Voltar para casa</li>
+        <li>Estudar programação</li>
+        <li>Jantar</li>
+        <li>Assistir série</li>
+        <li>Ir dormir</li>
+   </ol>
+<h2>Lista não ordenadas</h2>
+<ul type="disc">
+    <li>CG 160</li>
+    <li>Factor</li>
+    <li>FZ15</li>
+    <li>Bros 160</li>
+    <li>Elite</li>
+    <li>Pcx</li>
+    <li>Dominar</li>
+    <li>Crosser</li>
+    <li>Lander</li>
+    <li>Kawasaki</li>
+    <li>Jef150s</li>
+    <li>Pop 100</li>
+</ul>
+</body>
+</html>
